@@ -1,6 +1,6 @@
 # TessellationDemoSharpDX
 
-This is application for my Project Laboratory 1. course at Budapest University of Technology and Economics
+This is application for my Project Laboratory 2. course at Budapest University of Technology and Economics
 
 Videos:
 - [Distance adaptive tessellation](https://www.youtube.com/watch?v=q5KoROdTAV8)
